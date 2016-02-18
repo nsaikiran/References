@@ -16,6 +16,8 @@ This file contains all reference I used/want to use.
 
 # Books
 
+#Blogs
+1. [durates.org](http://duartes.org/gustavo/blog/archives/)
 
 # Miscellaneous
 1. The first [web page] (https://www.w3.org/History/19921103-hypertext/hypertext/WWW/TheProject.html)
