@@ -6,12 +6,12 @@ This file contains all reference I used/want to use.
 4. [Data representation](http://www.willamette.edu/~gorr/classes/cs130/lectures/data_rep.htm)
 
 # Unix/Linux Commands
-1. Go to [freebsd](https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/) for manuals from BSD.
-2. Go to [debiandoc](https://www.debian.org/doc/) for manuals from DEBIAN. Go through the listed manuals in the site. They will take you to good weblinks.
+1. [freebsd](https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/) for manuals from BSD.
+2. [debiandoc](https://www.debian.org/doc/) for manuals from DEBIAN. Go through the listed manuals in the site. They will take you to good weblinks.
 
 
 # Utilities
-1. for ftp [thegeekstuff](http://www.thegeekstuff.com/2010/06/ftp-sftp-tutorial/),[cs.colostate](https://www.cs.colostate.edu/helpdocs/ftp.html) [deskshare](http://www.deskshare.com/resources/articles/ftp-how-to.aspx)
+1. for *ftp* [thegeekstuff](http://www.thegeekstuff.com/2010/06/ftp-sftp-tutorial/),[cs.colostate](https://www.cs.colostate.edu/helpdocs/ftp.html), [deskshare](http://www.deskshare.com/resources/articles/ftp-how-to.aspx)
 2. [curl](http://www.thegeekstuff.com/2012/04/curl-examples/)
 
 # Books
