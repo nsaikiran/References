@@ -1,7 +1,8 @@
 This file contains all reference I used/want to use.
 # Programming
 1. Here is a good weblink for [programming](https://www.ntu.edu.sg/home/ehchua/programming/index.html)
-
+2. [codeschool](codeschool.org)
+3. [Data representation](http://www.willamette.edu/~gorr/classes/cs130/lectures/data_rep.htm)
 
 # Unix/Linux Commands
 1. Go to [freebsd](https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/) for manuals from BSD.
@@ -9,5 +10,11 @@ This file contains all reference I used/want to use.
 
 
 # Utilities
-1. [ftp](http://www.thegeekstuff.com/2010/06/ftp-sftp-tutorial/)
+1. for ftp [thegeekstuff](http://www.thegeekstuff.com/2010/06/ftp-sftp-tutorial/),[cs.colostate](https://www.cs.colostate.edu/helpdocs/ftp.html) [deskshare](http://www.deskshare.com/resources/articles/ftp-how-to.aspx)
 2. curl
+
+# Books
+
+
+# Miscellaneous
+1. The first [web page] (https://www.w3.org/History/19921103-hypertext/hypertext/WWW/TheProject.html)
