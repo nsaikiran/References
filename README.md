@@ -15,6 +15,12 @@ This file contains all reference I used/want to use.
 1. for *ftp* [thegeekstuff](http://www.thegeekstuff.com/2010/06/ftp-sftp-tutorial/),[cs.colostate](https://www.cs.colostate.edu/helpdocs/ftp.html), [deskshare](http://www.deskshare.com/resources/articles/ftp-how-to.aspx)
 2. [curl](http://www.thegeekstuff.com/2012/04/curl-examples/)
 
+# Machine Learning & Natural Language Processing
+
+1. [tf-idf](http://www.tfidf.com/)
+2. [nlp-stanford](http://nlp.stanford.edu/IR-book/html/htmledition/contents-1.html)
+3. [Latent Dirichlet Allocation](http://blog.echen.me/2011/08/22/introduction-to-latent-dirichlet-allocation/)
+4. [Stemming](https://xapian.org/docs/stemming.html)
 # Books
 
 #Blogs
