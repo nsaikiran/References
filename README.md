@@ -10,7 +10,6 @@ This file contains all reference I used/want to use.
 1. [freebsd](https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/) for manuals from BSD.
 2. [debiandoc](https://www.debian.org/doc/) for manuals from DEBIAN. Go through the listed manuals in the site. They will take you to good weblinks.
 
-
 # Utilities
 1. for *ftp* [thegeekstuff](http://www.thegeekstuff.com/2010/06/ftp-sftp-tutorial/),[cs.colostate](https://www.cs.colostate.edu/helpdocs/ftp.html), [deskshare](http://www.deskshare.com/resources/articles/ftp-how-to.aspx)
 2. [curl](http://www.thegeekstuff.com/2012/04/curl-examples/)
@@ -21,6 +20,12 @@ This file contains all reference I used/want to use.
 2. [nlp-stanford](http://nlp.stanford.edu/IR-book/html/htmledition/contents-1.html)
 3. [Latent Dirichlet Allocation](http://blog.echen.me/2011/08/22/introduction-to-latent-dirichlet-allocation/)
 4. [Stemming](https://xapian.org/docs/stemming.html)
+5. [NLP](http://www.isi.edu/natural-language/teaching/cs544/spring13/)
+
+# Web
+1. [Structure of Web docs](https://www.w3.org/TR/WD-html40-970708/struct/structop.html)
+2. [link2](https://www.w3.org/TR/WD-html40-970708/contents.html)
+
 # Books
 
 #Blogs
