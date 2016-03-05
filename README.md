@@ -5,8 +5,9 @@ This file contains all reference I used/want to use.
 3. [The C/C++ Users Journal](http://collaboration.cmc.ec.gc.ca/science/rpn/biblio/ddj/Website/articles/)
 4. [Data representation](http://www.willamette.edu/~gorr/classes/cs130/lectures/data_rep.htm)
 5. [Memory Layout of C Program](http://www.geeksforgeeks.org/memory-layout-of-c-program/)
+
 ## Socket Programming (in C)
-1. Beej's Guide[old](http://www.gta.ufrj.br/ensino/eel878/sockets/index.html)[new](http://beej.us/guide/bgnet/output/html/multipage/index.html)
+1. Beej's Guide ( [old](http://www.gta.ufrj.br/ensino/eel878/sockets/index.html),[new](http://beej.us/guide/bgnet/output/html/multipage/index.html))
 
 # Unix/Linux Commands
 1. [freebsd](https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/) for manuals from BSD.
