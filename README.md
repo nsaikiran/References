@@ -29,8 +29,8 @@ This file contains all reference I used/want to use.
 1. [Structure of Web docs](https://www.w3.org/TR/WD-html40-970708/struct/structop.html)
 2. [link2](https://www.w3.org/TR/WD-html40-970708/contents.html)
 
-# Books
-
+#Computer Science Subjects
+1. [Ray Toal](http://cs.lmu.edu/~ray/). Go to courses.
 #Blogs
 1. [durates.org](http://duartes.org/gustavo/blog/archives/)
 
