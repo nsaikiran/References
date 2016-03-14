@@ -6,6 +6,9 @@ This file contains all reference I used/want to use.
 4. [Data representation](http://www.willamette.edu/~gorr/classes/cs130/lectures/data_rep.htm)
 5. [Memory Layout of C Program](http://www.geeksforgeeks.org/memory-layout-of-c-program/)
 
+## Python Programming
+1. [Python Master Classes](http://www.dabeaz.com/finalgenerator/)
+
 ## Socket Programming (in C)
 1. Beej's Guide ( [old](http://www.gta.ufrj.br/ensino/eel878/sockets/index.html),[new](http://beej.us/guide/bgnet/output/html/multipage/index.html))
 
@@ -24,6 +27,8 @@ This file contains all reference I used/want to use.
 3. [Latent Dirichlet Allocation](http://blog.echen.me/2011/08/22/introduction-to-latent-dirichlet-allocation/)
 4. [Stemming](https://xapian.org/docs/stemming.html)
 5. [NLP](http://www.isi.edu/natural-language/teaching/cs544/spring13/)
+6. [Machine Learning](cs229.stanford.edu/materials.html)
+7. [NLTK HOWTos](http://www.nltk.org/howto/)
 
 # Web
 1. [Structure of Web docs](https://www.w3.org/TR/WD-html40-970708/struct/structop.html)
@@ -31,6 +36,8 @@ This file contains all reference I used/want to use.
 
 #Computer Science Subjects
 1. [Ray Toal](http://cs.lmu.edu/~ray/). Go to courses.
+
+
 #Blogs
 1. [durates.org](http://duartes.org/gustavo/blog/archives/)
 
