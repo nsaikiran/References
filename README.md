@@ -1,4 +1,4 @@
-This file contains all reference I used/want to use.
+This file contains all references I used/want to use.
 # Programming
 1. Here is a good weblink for [programming](https://www.ntu.edu.sg/home/ehchua/programming/index.html)
 2. [codeschool](codeschool.org)
@@ -33,13 +33,18 @@ This file contains all reference I used/want to use.
 # Web
 1. [Structure of Web docs](https://www.w3.org/TR/WD-html40-970708/struct/structop.html)
 2. [link2](https://www.w3.org/TR/WD-html40-970708/contents.html)
+3. [Internals of Web\*](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/?hl=en)Follow all the linkes in *Topics*
+4. [How Browser's work\*](http://taligarsiel.com/Projects/howbrowserswork1.htm).
+
 
 #Computer Science Subjects
-1. [Ray Toal](http://cs.lmu.edu/~ray/). Go to courses.
+1. [Ray Toal\*](http://cs.lmu.edu/~ray/). Go to courses.
 
 
 #Blogs
 1. [durates.org](http://duartes.org/gustavo/blog/archives/)
 
+#Tools
+1.[Git] (http://maryrosecook.com/blog/post/git-from-the-inside-out)
 # Miscellaneous
 1. The first [web page] (https://www.w3.org/History/19921103-hypertext/hypertext/WWW/TheProject.html)
