@@ -35,7 +35,7 @@ This file contains all references I used/want to use.
 2. [link2](https://www.w3.org/TR/WD-html40-970708/contents.html)
 3. [Internals of Web\*](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/?hl=en)Follow all the linkes in *Topics*
 4. [How Browser's work\*](http://taligarsiel.com/Projects/howbrowserswork1.htm).
-
+5. [How the web works\*](http://www.garshol.priv.no/download/text/http-tut.html)
 
 #Computer Science Subjects
 1. [Ray Toal\*](http://cs.lmu.edu/~ray/). Go to courses.
