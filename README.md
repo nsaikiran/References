@@ -46,5 +46,8 @@ This file contains all references I used/want to use.
 
 #Tools
 1.[Git] (http://maryrosecook.com/blog/post/git-from-the-inside-out)
+
 # Miscellaneous
 1. The first [web page] (https://www.w3.org/History/19921103-hypertext/hypertext/WWW/TheProject.html)
+2. Optimizing Code [Optimization of Computer Programs in C ](http://icps.u-strasbg.fr/~bastoul/local_copies/lee.html) [Writing Efficient C and C Code Optimization] (http://www.codeproject.com/Articles/6154/Writing-Efficient-C-and-C-Code-Optimization) [Programming Optimization](http://www.azillionmonkeys.com/qed/optimize.html)
+3. **[TO DO]** Video Lectures of *Eugene Khutoryansky* 
