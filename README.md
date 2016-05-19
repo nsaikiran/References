@@ -8,6 +8,7 @@ This file contains all references I used/want to use.
 
 ## Python Programming
 1. [Python Master Classes](http://www.dabeaz.com/finalgenerator/)
+2. [Python Essentials](http://www.programiz.com/article/python-self-why)
 
 ## Socket Programming (in C)
 1. Beej's Guide ( [old](http://www.gta.ufrj.br/ensino/eel878/sockets/index.html),[new](http://beej.us/guide/bgnet/output/html/multipage/index.html))
