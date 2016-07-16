@@ -5,10 +5,13 @@ This file contains all references I used/want to use.
 3. [The C/C++ Users Journal](http://collaboration.cmc.ec.gc.ca/science/rpn/biblio/ddj/Website/articles/)
 4. [Data representation](http://www.willamette.edu/~gorr/classes/cs130/lectures/data_rep.htm)
 5. [Memory Layout of C Program](http://www.geeksforgeeks.org/memory-layout-of-c-program/)
+6. [SourceMaking](https://sourcemaking.com/) For Design Patterns in OO, Refactoring and Design.
+
 
 ## Python Programming
 1. [Python Master Classes](http://www.dabeaz.com/finalgenerator/)
 2. [Python Essentials](http://www.programiz.com/article/python-self-why)
+
 
 ## Socket Programming (in C)
 1. Beej's Guide ( [old](http://www.gta.ufrj.br/ensino/eel878/sockets/index.html),[new](http://beej.us/guide/bgnet/output/html/multipage/index.html))
@@ -44,9 +47,16 @@ This file contains all references I used/want to use.
 
 #Blogs
 1. [durates.org](http://duartes.org/gustavo/blog/archives/)
+2. [Destroy All Software Blog](https://www.destroyallsoftware.com/blog/)
 
 #Tools
-1.[Git] (http://maryrosecook.com/blog/post/git-from-the-inside-out)
+1.[Git] (http://maryrosecook.com/blog/post/git-from-the-inside-out) for Git insides.
+
+
+
+#Inspiration
+1. [A Whole New World: Destroy All Software](https://www.destroyallsoftware.com/talks/a-whole-new-world) An awesome talk about modifying low level software.
+
 
 # Miscellaneous
 1. The first [web page] (https://www.w3.org/History/19921103-hypertext/hypertext/WWW/TheProject.html)
