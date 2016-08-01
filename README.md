@@ -40,6 +40,8 @@ This file contains all references I used/want to use.
 3. [Internals of Web\*](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/?hl=en)Follow all the linkes in *Topics*
 4. [How Browser's work\*](http://taligarsiel.com/Projects/howbrowserswork1.htm).
 5. [How the web works\*](http://www.garshol.priv.no/download/text/http-tut.html)
+6. [Cookies](https://www.youtube.com/watch?v=LHSSY8QNvew) `Cookies` in web.
+
 
 #Computer Science Subjects
 1. [Ray Toal\*](http://cs.lmu.edu/~ray/). Go to courses.
@@ -49,10 +51,16 @@ This file contains all references I used/want to use.
 1. [durates.org](http://duartes.org/gustavo/blog/archives/)
 2. [Destroy All Software Blog](https://www.destroyallsoftware.com/blog/)
 
+#People
+1. [Ken Thompson](http://amturing.acm.org/award_winners/thompson_4588371.cfm) Known for UNIX operating system.
+2. [Dennis Ritchie](http://amturing.acm.org/award_winners/ritchie_1506389.cfm) Known for The C Programming Language and UNIX operating system.
+3. [Bjarne Stroustrup](http://www.stroustrup.com/) Designer and Implementor of C++.
+4. [Brain Kernighan]
+5. [Guido van Rossum]
+
+
 #Tools
 1.[Git] (http://maryrosecook.com/blog/post/git-from-the-inside-out) for Git insides.
-
-
 
 #Inspiration
 1. [A Whole New World: Destroy All Software](https://www.destroyallsoftware.com/talks/a-whole-new-world) An awesome talk about modifying low level software.
