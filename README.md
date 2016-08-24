@@ -35,16 +35,23 @@ This file contains all references I used/want to use.
 7. [NLTK HOWTos](http://www.nltk.org/howto/)
 
 # Web
+## I. General
 1. [Structure of Web docs](https://www.w3.org/TR/WD-html40-970708/struct/structop.html)
 2. [link2](https://www.w3.org/TR/WD-html40-970708/contents.html)
 3. [Internals of Web\*](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/?hl=en)Follow all the linkes in *Topics*
 4. [How Browser's work\*](http://taligarsiel.com/Projects/howbrowserswork1.htm).
 5. [How the web works\*](http://www.garshol.priv.no/download/text/http-tut.html)
 6. [Cookies](https://www.youtube.com/watch?v=LHSSY8QNvew) `Cookies` in web.
+## II. CSS
+1. [Link 1](https://specificity.keegan.st/)
+2. [Link 2](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+3. [Link 3](http://css-tricks.com/)
+4. [Link 4](https://developer.mozilla.org/en/docs/Web/CSS/Specificity)
+5. [Link 5](http://flukeout.github.io/)
 
-
-#Computer Science Subjects
-1. [Ray Toal\*](http://cs.lmu.edu/~ray/). Go to courses.
+#Computer Science
+1. [Foundations of Computer Science] (http://infolab.stanford.edu/~ullman/focs.html)
+2. [Ray Toal\*](http://cs.lmu.edu/~ray/). Go to courses.
 
 
 #Blogs
