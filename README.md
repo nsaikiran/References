@@ -35,6 +35,7 @@ This file contains all references I used/want to use.
 7. [NLTK HOWTos](http://www.nltk.org/howto/)
 
 # Web
+
 ## I. General
 1. [Structure of Web docs](https://www.w3.org/TR/WD-html40-970708/struct/structop.html)
 2. [link2](https://www.w3.org/TR/WD-html40-970708/contents.html)
@@ -42,6 +43,7 @@ This file contains all references I used/want to use.
 4. [How Browser's work\*](http://taligarsiel.com/Projects/howbrowserswork1.htm).
 5. [How the web works\*](http://www.garshol.priv.no/download/text/http-tut.html)
 6. [Cookies](https://www.youtube.com/watch?v=LHSSY8QNvew) `Cookies` in web.
+
 ## II. CSS
 1. [Link 1](https://specificity.keegan.st/)
 2. [Link 2](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
