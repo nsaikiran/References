@@ -2,7 +2,7 @@ This file contains all references I used/want to use.
 # Programming
 1. [Programming Notes\*](https://www.ntu.edu.sg/home/ehchua/programming/index.html)
 2. [codeschool](codeschool.org)
-3. [The C/C++ Users Journal](http://collaboration.cmc.ec.gc.ca/science/rpn/biblio/ddj/Website/articles/)
+3. [The C/C++ Users Journal\*](http://collaboration.cmc.ec.gc.ca/science/rpn/biblio/ddj/Website/articles/)
 4. [Data representation](http://www.willamette.edu/~gorr/classes/cs130/lectures/data_rep.htm)
 5. [Memory Layout of C Program](http://www.geeksforgeeks.org/memory-layout-of-c-program/)
 6. [SourceMaking](https://sourcemaking.com/) For Design Patterns in OO, Refactoring and Design.
@@ -82,3 +82,6 @@ This file contains all references I used/want to use.
 1. The first [web page] (https://www.w3.org/History/19921103-hypertext/hypertext/WWW/TheProject.html)
 2. Optimizing Code [Optimization of Computer Programs in C ](http://icps.u-strasbg.fr/~bastoul/local_copies/lee.html) [Writing Efficient C and C Code Optimization] (http://www.codeproject.com/Articles/6154/Writing-Efficient-C-and-C-Code-Optimization) [Programming Optimization](http://www.azillionmonkeys.com/qed/optimize.html)
 3. **[TO DO]** Video Lectures of *Eugene Khutoryansky* 
+
+
+`Links with * at the end are considered good and important`
