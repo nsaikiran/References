@@ -51,6 +51,10 @@ This file contains all references I used/want to use.
 4. [Link 4](https://developer.mozilla.org/en/docs/Web/CSS/Specificity)
 5. [Link 5](http://flukeout.github.io/)
 
+## III. JavaScript
+1. [Eloquent JavaScript](http://eloquentjavascript.net/)
+
+
 #Computer Science
 1. [Foundations of Computer Science] (http://infolab.stanford.edu/~ullman/focs.html)
 2. [Ray Toal\*](http://cs.lmu.edu/~ray/). Go to courses.
