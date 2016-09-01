@@ -11,6 +11,7 @@ This file contains all references I used/want to use.
 ## Python Programming
 1. [Python Master Classes](http://www.dabeaz.com/finalgenerator/)
 2. [Python Essentials](http://www.programiz.com/article/python-self-why)
+3. [Awesome-Python](http://awesome-python.com/)
 
 
 ## Socket Programming (in C)
@@ -33,6 +34,7 @@ This file contains all references I used/want to use.
 5. [NLP](http://www.isi.edu/natural-language/teaching/cs544/spring13/)
 6. [Machine Learning](cs229.stanford.edu/materials.html)
 7. [NLTK HOWTos](http://www.nltk.org/howto/)
+8. [Natural Language for Developers](https://wit.ai/)
 
 # Web
 
@@ -85,7 +87,8 @@ This file contains all references I used/want to use.
 # Miscellaneous
 1. The first [web page] (https://www.w3.org/History/19921103-hypertext/hypertext/WWW/TheProject.html)
 2. Optimizing Code [Optimization of Computer Programs in C ](http://icps.u-strasbg.fr/~bastoul/local_copies/lee.html) [Writing Efficient C and C Code Optimization] (http://www.codeproject.com/Articles/6154/Writing-Efficient-C-and-C-Code-Optimization) [Programming Optimization](http://www.azillionmonkeys.com/qed/optimize.html)
-3. **[TO DO]** Video Lectures of *Eugene Khutoryansky* 
+3. [TED-Ed] (http://ed.ted.com/)[TED-Ed YouTube](https://www.youtube.com/user/TEDEducation)
+4. **[TO DO]** Video Lectures of *Eugene Khutoryansky* 
 
 
 `Links with * at the end are considered good and important`
