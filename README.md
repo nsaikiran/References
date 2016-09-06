@@ -17,7 +17,12 @@ This file contains all references I used/want to use.
 ## Socket Programming (in C)
 1. Beej's Guide ( [old](http://www.gta.ufrj.br/ensino/eel878/sockets/index.html),[new](http://beej.us/guide/bgnet/output/html/multipage/index.html))
 
-# Unix/Linux Commands
+
+#Courses
+1. [Microsoft Virtual Academy](https://mva.microsoft.com/)
+
+
+# Unix/Linux
 1. [freebsd](https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/) for manuals from BSD.
 2. [debiandoc](https://www.debian.org/doc/) for manuals from DEBIAN. Go through the listed manuals in the site. They will take you to good weblinks.
 
@@ -60,6 +65,7 @@ This file contains all references I used/want to use.
 #Computer Science
 1. [Foundations of Computer Science] (http://infolab.stanford.edu/~ullman/focs.html)
 2. [Ray Toal\*](http://cs.lmu.edu/~ray/). Go to courses.
+3. [Bitwise Operations for Optimization*](http://guru.multimedia.cx/category/optimization/) Great for bitwise operations knowledge.
 
 
 #Blogs
