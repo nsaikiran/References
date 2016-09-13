@@ -82,6 +82,10 @@ This file contains all references I used/want to use.
 7. [Prof. David J Malan](http://cs.harvard.edu/malan/)
 8. [Prof. Jonathan Shewchuk](https://people.eecs.berkeley.edu/~jrs/)
 
+#Videos
+1. [Systems Programming in 2014 and Beyond](https://channel9.msdn.com/Events/Lang-NEXT/Lang-NEXT-2014/Panel-Systems-Programming-Languages-in-2014-and-Beyond)
+2. [Interactive Panel](https://channel9.msdn.com/Events/GoingNative/GoingNative-2012/Interactive-Panel-Ask-Us-Anything-?ocid=relatedsession)
+3. [Check out this channel for more videos](https://channel9.msdn.com/)
 
 #Tools
 1.[Git] (http://maryrosecook.com/blog/post/git-from-the-inside-out) for Git insides.
