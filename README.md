@@ -86,6 +86,7 @@ This file contains all references I used/want to use.
 1. [Systems Programming in 2014 and Beyond](https://channel9.msdn.com/Events/Lang-NEXT/Lang-NEXT-2014/Panel-Systems-Programming-Languages-in-2014-and-Beyond)
 2. [Interactive Panel](https://channel9.msdn.com/Events/GoingNative/GoingNative-2012/Interactive-Panel-Ask-Us-Anything-?ocid=relatedsession)
 3. [Check out this channel for more videos](https://channel9.msdn.com/)
+4. [Video Archive of heidelberg-laureate-forum*](http://www.heidelberg-laureate-forum.org/videoarchive/)
 
 #Tools
 1.[Git] (http://maryrosecook.com/blog/post/git-from-the-inside-out) for Git insides.
@@ -101,4 +102,5 @@ This file contains all references I used/want to use.
 4. **[TO DO]** Video Lectures of *Eugene Khutoryansky* 
 
 
+Do something about bots
 `Links with * at the end are considered good and important`
