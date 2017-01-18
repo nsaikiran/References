@@ -92,6 +92,11 @@ This file contains all references I used/want to use.
 #Tools
 1.[Git] (http://maryrosecook.com/blog/post/git-from-the-inside-out) for Git insides.
 
+#Comics
+1. [turnoff.us](http://turnoff.us)
+2. [http://programmers.life/](http://programmers.life/)
+3. [http://www.commitstrip.com/en/?](http://www.commitstrip.com/en/?)
+
 #Inspiration
 1. [A Whole New World: Destroy All Software](https://www.destroyallsoftware.com/talks/a-whole-new-world) An awesome talk about modifying low level software.
 
