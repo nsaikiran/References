@@ -18,7 +18,7 @@ This file contains all references I used/want to use.
 1. Beej's Guide ( [old](http://www.gta.ufrj.br/ensino/eel878/sockets/index.html),[new](http://beej.us/guide/bgnet/output/html/multipage/index.html))
 
 
-#Courses
+# Courses
 1. [Microsoft Virtual Academy](https://mva.microsoft.com/)
 
 
@@ -62,17 +62,17 @@ This file contains all references I used/want to use.
 1. [Eloquent JavaScript](http://eloquentjavascript.net/)
 
 
-#Computer Science
+# Computer Science
 1. [Foundations of Computer Science] (http://infolab.stanford.edu/~ullman/focs.html)
 2. [Ray Toal\*](http://cs.lmu.edu/~ray/). Go to courses.
 3. [Bitwise Operations for Optimization*](http://guru.multimedia.cx/category/optimization/) Great for bitwise operations knowledge.
 
 
-#Blogs
+# Blogs
 1. [durates.org](http://duartes.org/gustavo/blog/archives/)
 2. [Destroy All Software Blog](https://www.destroyallsoftware.com/blog/)
 
-#People
+# People
 1. [Ken Thompson](http://amturing.acm.org/award_winners/thompson_4588371.cfm) Known for UNIX operating system.
 2. [Dennis Ritchie](http://amturing.acm.org/award_winners/ritchie_1506389.cfm) Known for The C Programming Language and UNIX operating system.
 3. [Bjarne Stroustrup](http://www.stroustrup.com/) Designer and Implementor of C++.
@@ -82,23 +82,31 @@ This file contains all references I used/want to use.
 7. [Prof. David J Malan](http://cs.harvard.edu/malan/)
 8. [Prof. Jonathan Shewchuk](https://people.eecs.berkeley.edu/~jrs/)
 
-#Videos
+# Videos
 1. [Systems Programming in 2014 and Beyond](https://channel9.msdn.com/Events/Lang-NEXT/Lang-NEXT-2014/Panel-Systems-Programming-Languages-in-2014-and-Beyond)
 2. [Interactive Panel](https://channel9.msdn.com/Events/GoingNative/GoingNative-2012/Interactive-Panel-Ask-Us-Anything-?ocid=relatedsession)
 3. [Check out this channel for more videos](https://channel9.msdn.com/)
 4. [Video Archive of heidelberg-laureate-forum*](http://www.heidelberg-laureate-forum.org/videoarchive/)
 5.[LiveOverFlow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
 6. [Sys Admin Casts](https://sysadmincasts.com/)
-#Tools
+
+# Tools
 1.[Git] (http://maryrosecook.com/blog/post/git-from-the-inside-out) for Git insides.
 
-#Comics
+# Comics
 1. [turnoff.us](http://turnoff.us)
 2. [http://programmers.life/](http://programmers.life/)
 3. [http://www.commitstrip.com/en/?](http://www.commitstrip.com/en/?)
 
-#Inspiration
+# Inspiration
 1. [A Whole New World: Destroy All Software](https://www.destroyallsoftware.com/talks/a-whole-new-world) An awesome talk about modifying low level software.
+
+
+# Quotes
+
+- “It is our choices, Harry, that show what we truly are, far more than
+our abilities.” ― J.K. Rowling, Harry Potter and the Chamber of Secrets
+
 
 
 # Miscellaneous
