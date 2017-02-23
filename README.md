@@ -88,6 +88,7 @@ This file contains all references I used/want to use.
 # Videos
 - [Systems Programming in 2014 and Beyond](https://channel9.msdn.com/Events/Lang-NEXT/Lang-NEXT-2014/Panel-Systems-Programming-Languages-in-2014-and-Beyond)
 - [Interactive Panel](https://channel9.msdn.com/Events/GoingNative/GoingNative-2012/Interactive-Panel-Ask-Us-Anything-?ocid=relatedsession)
+- [CodeSchoolOrg](http://codeschool.org/)
 - [Check out this channel for more videos](https://channel9.msdn.com/)
 - [Video Archive of heidelberg-laureate-forum\*](http://www.heidelberg-laureate-forum.org/videoarchive/)
 - [LiveOverFlow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
