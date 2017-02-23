@@ -16,6 +16,7 @@ This file contains all references I used/want to use.
 
 ## Language Specification
 - [Python] (https://docs.python.org/3.6/reference/index.html)
+
 ## Socket Programming (in C)
 - Beej's Guide ( [old](http://www.gta.ufrj.br/ensino/eel878/sockets/index.html),[new](http://beej.us/guide/bgnet/output/html/multipage/index.html))
 
