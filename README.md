@@ -14,7 +14,8 @@ This file contains all references I used/want to use.
 - [Python Essentials](http://www.programiz.com/article/python-self-why)
 - [Awesome-Python](http://awesome-python.com/)
 
-
+## Language Specification
+- [Python] (https://docs.python.org/3.6/reference/index.html)
 ## Socket Programming (in C)
 - Beej's Guide ( [old](http://www.gta.ufrj.br/ensino/eel878/sockets/index.html),[new](http://beej.us/guide/bgnet/output/html/multipage/index.html))
 
