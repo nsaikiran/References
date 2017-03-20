@@ -74,6 +74,8 @@ This file contains all references I used/want to use.
 # Blogs
 - [durates.org](http://duartes.org/gustavo/blog/archives/)
 - [Destroy All Software Blog](https://www.destroyallsoftware.com/blog/)
+- [Kamran Ahmed](http://kamranahmed.info/)
+
 
 # People
 - [Ken Thompson](http://amturing.acm.org/award_winners/thompson_4588371.cfm) Known for UNIX operating system.
@@ -88,6 +90,7 @@ This file contains all references I used/want to use.
 # Videos
 - [Systems Programming in 2014 and Beyond](https://channel9.msdn.com/Events/Lang-NEXT/Lang-NEXT-2014/Panel-Systems-Programming-Languages-in-2014-and-Beyond)
 - [Interactive Panel](https://channel9.msdn.com/Events/GoingNative/GoingNative-2012/Interactive-Panel-Ask-Us-Anything-?ocid=relatedsession)
+- [CodeSchoolOrg](http://codeschool.org/)
 - [Check out this channel for more videos](https://channel9.msdn.com/)
 - [Video Archive of heidelberg-laureate-forum\*](http://www.heidelberg-laureate-forum.org/videoarchive/)
 - [LiveOverFlow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
