@@ -74,6 +74,8 @@ This file contains all references I used/want to use.
 # Blogs
 - [durates.org](http://duartes.org/gustavo/blog/archives/)
 - [Destroy All Software Blog](https://www.destroyallsoftware.com/blog/)
+- [Kamran Ahmed](http://kamranahmed.info/)
+
 
 # People
 - [Ken Thompson](http://amturing.acm.org/award_winners/thompson_4588371.cfm) Known for UNIX operating system.
