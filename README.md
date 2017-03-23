@@ -24,6 +24,8 @@ This file contains all references I used/want to use.
 # Courses
 - [Microsoft Virtual Academy](https://mva.microsoft.com/)
 
+# Books
+- [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/full-text/book/book.html)
 
 # Unix/Linux
 - [freebsd](https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/) for manuals from BSD.
