@@ -123,6 +123,8 @@ our abilities.” ― J.K. Rowling, Harry Potter and the Chamber of Secrets
 - [TED-Ed] (http://ed.ted.com/)[TED-Ed YouTube](https://www.youtube.com/user/TEDEducation)
 - **[TO DO]** Video Lectures of *Eugene Khutoryansky* 
 
+# Art Links
+- [wikiart](http://wikiart.org)
 
 Do something about bots
 `Links with * at the end are considered good and important`
