@@ -77,7 +77,7 @@ This file contains all references I used/want to use.
 - [durates.org](http://duartes.org/gustavo/blog/archives/)
 - [Destroy All Software Blog](https://www.destroyallsoftware.com/blog/)
 - [Kamran Ahmed](http://kamranahmed.info/)
-
+- [Josh Haberman](http://blog.reverberate.org/)
 
 # People
 - [Ken Thompson](http://amturing.acm.org/award_winners/thompson_4588371.cfm) Known for UNIX operating system.
@@ -118,7 +118,7 @@ our abilities.” ― J.K. Rowling, Harry Potter and the Chamber of Secrets
 
 
 # Miscellaneous
-- The first [web page] (https://www.w3.org/History/19921103-hypertext/hypertext/WWW/TheProject.html)
+- The first [web page](https://www.w3.org/History/19921103-hypertext/hypertext/WWW/TheProject.html)
 - Optimizing Code [Optimization of Computer Programs in C ](http://icps.u-strasbg.fr/~bastoul/local_copies/lee.html) [Writing Efficient C and C Code Optimization] (http://www.codeproject.com/Articles/6154/Writing-Efficient-C-and-C-Code-Optimization) [Programming Optimization](http://www.azillionmonkeys.com/qed/optimize.html)
 - [TED-Ed] (http://ed.ted.com/)[TED-Ed YouTube](https://www.youtube.com/user/TEDEducation)
 - **[TO DO]** Video Lectures of *Eugene Khutoryansky* 
