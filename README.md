@@ -78,6 +78,7 @@ This file contains all references I used/want to use.
 - [Destroy All Software Blog](https://www.destroyallsoftware.com/blog/)
 - [Kamran Ahmed](http://kamranahmed.info/)
 - [Josh Haberman](http://blog.reverberate.org/)
+- [Julia Evans](https://jvns.ca/) - With drawings!
 
 # People
 - [Ken Thompson](http://amturing.acm.org/award_winners/thompson_4588371.cfm) Known for UNIX operating system.
