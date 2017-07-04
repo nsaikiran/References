@@ -2,7 +2,7 @@ This file contains all references I used/want to use.
 
 # Programming
 - [Programming Notes\*](https://www.ntu.edu.sg/home/ehchua/programming/index.html)
-- [codeschool](codeschool.org)
+- [codeschool](http://www.codeschool.org)
 - [The C/C++ Users Journal\*](http://collaboration.cmc.ec.gc.ca/science/rpn/biblio/ddj/Website/articles/)
 - [Data representation](http://www.willamette.edu/~gorr/classes/cs130/lectures/data_rep.htm)
 - [Memory Layout of C Program](http://www.geeksforgeeks.org/memory-layout-of-c-program/)
