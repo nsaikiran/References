@@ -27,6 +27,9 @@ This file contains all references I used/want to use.
 # Books
 - [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/full-text/book/book.html)
 
+# Maths
+- Linear Algebra By [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw). With AWESOME visuals
+
 # Unix/Linux
 - [freebsd](https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/) for manuals from BSD.
 - [debiandoc](https://www.debian.org/doc/) for manuals from DEBIAN. Go through the listed manuals in the site. They will take you to good weblinks.
