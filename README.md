@@ -83,6 +83,10 @@ This file contains all references I used/want to use.
 - [Josh Haberman](http://blog.reverberate.org/)
 - [Julia Evans](https://jvns.ca/) - With drawings!
 
+# CI/CD
+- [Continuous Delivery 101](https://www.youtube.com/watch?v=HnWuIjUw_Q8&list=PLYcy44QqzleK37bEsG5Jh9RQDmUaBoMra) By ThoughtWorks
+- [Continuous Devlivery](https://www.youtube.com/watch?v=QZyka2anXbs&list=PLYcy44QqzleJervy1ajJcad_CsgJr7ZJw) By ThoughtWorks
+
 # People
 - [Ken Thompson](http://amturing.acm.org/award_winners/thompson_4588371.cfm) Known for UNIX operating system.
 - [Dennis Ritchie](http://amturing.acm.org/award_winners/ritchie_1506389.cfm) Known for The C Programming Language and UNIX operating system.
