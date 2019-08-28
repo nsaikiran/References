@@ -95,6 +95,8 @@ This file contains all references I used/want to use.
 - [Video Archive of heidelberg-laureate-forum\*](http://www.heidelberg-laureate-forum.org/videoarchive/)
 - [LiveOverFlow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
 - [Sys Admin Casts](https://sysadmincasts.com/)
+- [Architecture the Lost Years by Robert Martin](https://www.youtube.com/watch?v=WpkDN78P884)
+- [Boundaries by Gary Bernhardt](https://www.youtube.com/watch?v=yTkzNHF6rMs)
 
 # Tools
 - [Git] (http://maryrosecook.com/blog/post/git-from-the-inside-out) for Git insides.
