@@ -134,5 +134,13 @@ our abilities.” ― J.K. Rowling, Harry Potter and the Chamber of Secrets
 # Art Links
 - [wikiart](http://wikiart.org)
 
+# Understanding Computers
+
+## Radix Number Systems
+- [Understanding 2's complement](https://www.cs.cornell.edu/~tomf/notes/cps104/twoscomp.html#intro)
+- [Being Fluent & Faithful in a Digital World](https://cs.calvin.edu/activities/books/rit/)
+- [Radix Number Systems](https://www.ics.uci.edu/~bic/courses/51/Lectures/Number%20Systems.pdf)
+- [Overflow Detection](http://www.c-jump.com/CIS77/CPU/Overflow/lecture.html)
+
 Do something about bots
 `Links with * at the end are considered good and important`
