@@ -10,6 +10,7 @@ This file contains all references I used/want to use.
 
 
 ## Python Programming
+- [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
 - [Python Master Classes](http://www.dabeaz.com/finalgenerator/)
 - [Python Essentials](http://www.programiz.com/article/python-self-why)
 - [Awesome-Python](http://awesome-python.com/)
@@ -138,9 +139,11 @@ our abilities.” ― J.K. Rowling, Harry Potter and the Chamber of Secrets
 
 ## Radix Number Systems
 - [Understanding 2's complement](https://www.cs.cornell.edu/~tomf/notes/cps104/twoscomp.html#intro)
-- [Being Fluent & Faithful in a Digital World](https://cs.calvin.edu/activities/books/rit/)
+- [Binary: Plusses & Minuses (Why We Use Two's Complement) - Computerphile](https://www.youtube.com/watch?v=lKTsv6iVxV4)
+- [Modeling Reality with Computers](https://cs.calvin.edu/activities/books/rit/chapter5/index.htm)*
 - [Radix Number Systems](https://www.ics.uci.edu/~bic/courses/51/Lectures/Number%20Systems.pdf)
 - [Overflow Detection](http://www.c-jump.com/CIS77/CPU/Overflow/lecture.html)
+
 
 Do something about bots
 `Links with * at the end are considered good and important`
