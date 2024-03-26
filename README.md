@@ -1,7 +1,7 @@
 This file contains all references I used/want to use.
 
 # Programming
-- [Programming Notes\*](https://www.ntu.edu.sg/home/ehchua/programming/index.html)
+- [Programming Notes\*](https://www3.ntu.edu.sg/home/ehchua/programming/index.html)
 - [codeschool](codeschool.org)
 - [The C/C++ Users Journal\*](http://collaboration.cmc.ec.gc.ca/science/rpn/biblio/ddj/Website/articles/)
 - [Data representation](http://www.willamette.edu/~gorr/classes/cs130/lectures/data_rep.htm)
@@ -118,7 +118,8 @@ our abilities.” ― J.K. Rowling, Harry Potter and the Chamber of Secrets
 
 
 # Miscellaneous
-- The first [web page] (https://www.w3.org/History/19921103-hypertext/hypertext/WWW/TheProject.html)
+- [Basic Mathematics](https://www.reddit.com/r/YouShouldKnow/comments/7d0fqs/ysk_the_us_navy_has_a_set_of_manuals_to_teach/)
+- The first [web page](https://www.w3.org/History/19921103-hypertext/hypertext/WWW/TheProject.html)
 - Optimizing Code [Optimization of Computer Programs in C ](http://icps.u-strasbg.fr/~bastoul/local_copies/lee.html) [Writing Efficient C and C Code Optimization] (http://www.codeproject.com/Articles/6154/Writing-Efficient-C-and-C-Code-Optimization) [Programming Optimization](http://www.azillionmonkeys.com/qed/optimize.html)
 - [TED-Ed] (http://ed.ted.com/)[TED-Ed YouTube](https://www.youtube.com/user/TEDEducation)
 - **[TO DO]** Video Lectures of *Eugene Khutoryansky* 
