@@ -118,7 +118,7 @@ our abilities.” ― J.K. Rowling, Harry Potter and the Chamber of Secrets
 
 
 # Miscellaneous
-- [Basic Mathematics](https://www.reddit.com/r/YouShouldKnow/comments/7d0fqs/ysk_the_us_navy_has_a_set_of_manuals_to_teach/)
+- [Basic Mathematics - US Navy mathematics manuals](https://www.reddit.com/r/YouShouldKnow/comments/7d0fqs/ysk_the_us_navy_has_a_set_of_manuals_to_teach/)
 - The first [web page](https://www.w3.org/History/19921103-hypertext/hypertext/WWW/TheProject.html)
 - Optimizing Code [Optimization of Computer Programs in C ](http://icps.u-strasbg.fr/~bastoul/local_copies/lee.html) [Writing Efficient C and C Code Optimization] (http://www.codeproject.com/Articles/6154/Writing-Efficient-C-and-C-Code-Optimization) [Programming Optimization](http://www.azillionmonkeys.com/qed/optimize.html)
 - [TED-Ed] (http://ed.ted.com/)[TED-Ed YouTube](https://www.youtube.com/user/TEDEducation)
